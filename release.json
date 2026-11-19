@@ -6,14 +6,14 @@
         "url": "https://raw.githubusercontent.com/jacker-25/ESP32_2.4g_ota/main/firmwares/py32f003/stable/py32_2_4g_A_1.0.0.bin",
         "slot": "A",
         "checksum": "a8d3e3573b32bd0041ff1c08d440f28b3e6a5b1c100a12b36d25728a1601bba4",
-        "description": "v1.0.0 正式发布版 - Domraem-2.4G 遥控器接收端固件"
+        "description": "v1.0.0 Official Release Version - Domraem-2.4G Remote Receiver Firmware"
       },
       {
         "version": "1.0.0",
         "url": "https://raw.githubusercontent.com/jacker-25/ESP32_2.4g_ota/main/firmwares/py32f003/stable/py32_2_4g_B_1.0.0.bin",
         "slot": "B",
         "checksum": "10b3ef50ae677a72fc74d6cb1aba52a7d085a1f534ee4c74cc34a8503454df5a",
-        "description": "v1.0.0 正式发布版 - Domraem-2.4G 遥控器接收端固件"
+        "description": "v1.0.0 Official Release Version - Domraem-2.4G Remote Receiver Firmware"
       }
     ],
     "beta": []
