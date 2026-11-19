@@ -2,46 +2,18 @@
   "py32": {
     "stable": [
       {
-        "version": "1.0.2",
-        "url": "https://raw.githubusercontent.com/guoyanyan25/ESP32_2.4g_ota/main/firmwares/py32f003/stable/py32_2_4g_A_1.0.2.bin",
+        "version": "1.0.0",
+        "url": "https://raw.githubusercontent.com/jacker-25/ESP32_2.4g_ota/main/firmwares/py32f003/stable/py32_2_4g_A_1.0.0.bin",
         "slot": "A",
-        "checksum": "71687a5ad8e8ba72d3d3a9b5d22dc86588270cd8fd5b54f93402502d43268582",
-        "description": "v1.0.2 稳定版 (slot A) -此版本对应WLED_V16.0.1版本，主要跟新了分区，bootloader,app_a/app_b"
-      },
-      {
-        "version": "1.0.2",
-        "url": "https://raw.githubusercontent.com/guoyanyan25/ESP32_2.4g_ota/main/firmwares/py32f003/stable/py32_2_4g_B_1.0.2.bin",
-        "slot": "B",
-        "checksum": "d2478d8e7c65df97374ece7485556470f81b0a0dc1d15810d069c8aeb968ded7",
-        "description": "v1.0.2 稳定版 (slot B) - 此版本对应WLED_V16.0.1版本，主要跟新了分区，bootloader,app_a/app_b"
-      },
-      {
-        "version": "1.0.1",
-        "url": "https://raw.githubusercontent.com/guoyanyan25/ESP32_2.4g_ota/main/firmwares/py32f003/stable/py32_2_4g_A_1.0.1.bin",
-        "slot": "A",
-        "checksum": "2060f573f4734b6efe665c9280d587a649382fd042c0a8adaf18af969c46ee46",
-        "description": "v1.0.1 稳定版 (slot A) - 2.4G 遥控器接收端固件，新的分区"
-      },
-      {
-        "version": "1.0.1",
-        "url": "https://raw.githubusercontent.com/guoyanyan25/ESP32_2.4g_ota/main/firmwares/py32f003/stable/py32_2_4g_B_1.0.1.bin",
-        "slot": "B",
-        "checksum": "ae1b1bac79eda7d4019b12bc25eeaae11e846410d77126a6c0db25eca02b664f",
-        "description": "v1.0.1 稳定版 (slot B) - 2.4G 遥控器接收端固件，新的分区"
+        "checksum": "a8d3e3573b32bd0041ff1c08d440f28b3e6a5b1c100a12b36d25728a1601bba4",
+        "description": "v1.0.0 正式发布版 - Domraem-2.4G 遥控器接收端固件"
       },
       {
         "version": "1.0.0",
-        "url": "https://raw.githubusercontent.com/guoyanyan25/ESP32_2.4g_ota/main/firmwares/py32f003/stable/py32_2_4g_A_1.0.0.bin",
-        "slot": "A",
-        "checksum": "4f02fe51c9c5db2d1969f8ccf851350488f0ea4cb2e30773634aaa0adc9875d7",
-        "description": "v1.0.0 稳定版 (slot A) - 2.4G 遥控器接收端固件"
-      },
-      {
-        "version": "1.0.0",
-        "url": "https://raw.githubusercontent.com/guoyanyan25/ESP32_2.4g_ota/main/firmwares/py32f003/stable/py32_2_4g_B_1.0.0.bin",
+        "url": "https://raw.githubusercontent.com/jacker-25/ESP32_2.4g_ota/main/firmwares/py32f003/stable/py32_2_4g_B_1.0.0.bin",
         "slot": "B",
-        "checksum": "88134a031624346d7e4e49639ba5528c45c9c98b7dacc5d9d76572a509c0ef4d",
-        "description": "v1.0.0 稳定版 (slot B) - 2.4G 遥控器接收端固件"
+        "checksum": "10b3ef50ae677a72fc74d6cb1aba52a7d085a1f534ee4c74cc34a8503454df5a",
+        "description": "v1.0.0 正式发布版 - Domraem-2.4G 遥控器接收端固件"
       }
     ],
     "beta": []
